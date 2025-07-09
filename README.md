@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 What I Do
-- 🗣️ Real-time voice translation with lip sync (LingoMotion)
-- 🤖 AI dispatch agents for logistics (LexAI)
-- 🌐 Uzbek LLMs & NLP tools (Uzbek-GPT)
+- 🗣️ Real-time voice translation with lip sync
+- 🤖 AI dispatch agents for logistics
+- 🌐 Uzbek LLMs & NLP tools
 - 🛠️ Model fine-tuning & deployment (vLLM, Triton, Airflow)
 
 ---
