@@ -1,12 +1,30 @@
-# Hi, I'm Dovud Asadov 👋
+<h2 align="center">Hi, I'm Dovud Asadov 👋</h2>
 
-AI Engineer & Data Scientist from Tashkent 🇺🇿  
-Building multilingual voice systems, intelligent dispatch agents, and scalable LLM tools.
+<p align="center">
+  <strong>AI Engineer & Data Scientist</strong> from <strong>Tashkent, Uzbekistan 🇺🇿</strong><br>
+  Passionate about building multilingual voice systems, intelligent dispatch agents, and scalable LLM tools.
+</p>
 
-🧠 Working with Python, PyTorch, Hugging Face, Airflow, and vLLM  
-🌐 Projects: Uzbek-GPT, LingoMotion, LexAI, Speaklish
+---
 
-📫 [LinkedIn](https://www.linkedin.com/in/dovud-asadov-913002245/) • [GitHub](https://github.com/DovudAsadov)
+### 🚀 What I Do
+- 🗣️ Real-time voice translation with lip sync (LingoMotion)
+- 🤖 AI dispatch agents for logistics (LexAI)
+- 🌐 Uzbek LLMs & NLP tools (Uzbek-GPT)
+- 🛠️ Model fine-tuning & deployment (vLLM, Triton, Airflow)
+
+---
+
+### 🧠 Tech I Work With
+`Python` · `PyTorch` · `Hugging Face` · `Airflow` · `FastAPI` · `Docker` · `vLLM` · `PostgreSQL`
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dovud-asadov-913002245/">LinkedIn</a> •
+  <a href="https://github.com/DovudAsadov">GitHub</a>
+</p>
+
 
 <!--
 **DovudAsadov/DovudAsadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
