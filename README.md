@@ -1,23 +1,12 @@
 # Hi, I'm Dovud Asadov 👋
 
-I'm an AI Engineer and Data Scientist from Tashkent, Uzbekistan — passionate about building intelligent systems that solve real-world problems.
+AI Engineer & Data Scientist from Tashkent 🇺🇿  
+Building multilingual voice systems, intelligent dispatch agents, and scalable LLM tools.
 
-## 🚀 Current Focus
-- Real-time multilingual voice translation systems
-- Scalable AI agents for logistics and dispatch automation
-- Training and deploying LLMs with cutting-edge techniques
+🧠 Working with Python, PyTorch, Hugging Face, Airflow, and vLLM  
+🌐 Projects: Uzbek-GPT, LingoMotion, LexAI, Speaklish
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, C++  
-**AI/ML:** PyTorch, scikit-learn, Hugging Face  
-**Data Engineering:** Airflow, Spark, dbt, Power BI  
-**DevOps:** Docker, Git, FastAPI, vLLM, Triton  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud:** AWS, GCP, Azure
-
-## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/dovud-asadov-913002245/) | [GitHub](https://github.com/DovudAsadov)
-
+📫 [LinkedIn](https://www.linkedin.com/in/dovud-asadov-913002245/) • [GitHub](https://github.com/DovudAsadov)
 
 <!--
 **DovudAsadov/DovudAsadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
