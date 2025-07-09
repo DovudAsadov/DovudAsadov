@@ -8,8 +8,8 @@ I'm an AI Engineer and Data Scientist from Tashkent, Uzbekistan — passionate a
 - Training and deploying LLMs with cutting-edge techniques
 
 ## 🛠️ Tech Stack
-**Languages:** Python, R, SQL, C++  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
+**Languages:** Python, SQL, C++  
+**AI/ML:** PyTorch, scikit-learn, Hugging Face  
 **Data Engineering:** Airflow, Spark, dbt, Power BI  
 **DevOps:** Docker, Git, FastAPI, vLLM, Triton  
 **Databases:** PostgreSQL, MongoDB, Redis  
