@@ -7,18 +7,6 @@
 
 ---
 
-### 🚀 What I Do
-- 🗣️ Real-time voice translation with lip sync
-- 🤖 AI dispatch agents for logistics
-- 🌐 Uzbek LLMs & NLP tools
-- 🛠️ Model fine-tuning & deployment (vLLM, Triton, Airflow)
-
----
-
-### 🧠 Tech I Work With
-`Python` · `PyTorch` · `Hugging Face` · `Airflow` · `FastAPI` · `Docker` · `vLLM` · `PostgreSQL`
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dovud-asadov-913002245/">LinkedIn</a> •
